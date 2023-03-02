@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-align: right;
+    font-size: 25px;
+    margin: 20px;
+    padding: 10px;
+}
+button{
+    margin-left: 50%;
+    width: 130px;
+    height: 50px;
+    color: #fff;
+    background-color: #991515;
+    border: none;
+    outline: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 20px;
+
+}
+button:hover{
+    background-color: #b91111;
+
+}
